@@ -44,6 +44,12 @@ class Option extends React.Component{
   }
 }
 
+class Add extends React.Component{
+  render(){
+    return <p>Test react js</p>;
+  }
+}
+
 class App extends React.Component {
   render() {
     const options = [
